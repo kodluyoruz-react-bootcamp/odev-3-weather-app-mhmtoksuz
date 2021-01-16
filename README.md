@@ -2,9 +2,12 @@
 Siteyi netlify a yükledim ama ordaki inputa veri girince listeleme yapmıyor ama localde çalışıyor. Çalışıyor dediğimde kör topal, türkçe karakter ile girilen her hangi bir şehrin 3 günlük tahminini gösteriyor https://youthful-torvalds-a0699a.netlify.app
 <img width="808" alt="Ekran Resmi 2021-01-16 05 45 04" src="https://user-images.githubusercontent.com/34423621/104795376-d8584b80-57be-11eb-8e41-3a3d0e16cd3c.png">
 
+<img width="826" alt="Ekran Resmi 2021-01-16 05 45 31" src="https://user-images.githubusercontent.com/34423621/104795445-54eb2a00-57bf-11eb-9f71-e0effced4fb5.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
